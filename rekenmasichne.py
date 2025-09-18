@@ -1,7 +1,3 @@
-#opdracht: bouw je eige rekenmachine
-#djordy
-#10-09-2025
-#deze code zal een rekenmeachine zijn
 
 #importeren van de module genaamd berekeningen (het bestand berekeningen.py hier zitten berekenings functies in)
 import berekeningen
@@ -58,4 +54,5 @@ while True:
     opnieuw = input("Wil je nog een berekening doen? (ja/nee): ").strip().lower()
     if opnieuw != "ja": #waneer opnieuw niet ja is
         print("Programma gestopt.")
+
         break #einde progamma
