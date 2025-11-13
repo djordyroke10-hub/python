@@ -1,1 +1,1 @@
-#This code when ran together will act as an calculator (very rudementary)
+#Every file added to this reposetory an its branches is ment as an visual of my python learning journey
