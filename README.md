@@ -1,1 +1,1 @@
-#its nothing special jjust some early stuff taht is widly availible this is just how i did it 
+#This code when ran together will act as an calculator (very rudementary)
